@@ -36,7 +36,6 @@
     "webpack-cli": "^3.2.3"
   },
   "dependencies": {
-    "http-server-legacy": "^0.11.1",
     "resize-observer-polyfill": "^1.5.0"
   }
 }
